@@ -1,0 +1,308 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .iphone6781row0 {
+    display: flex;
+    margin-left: 49px;
+    margin-top: 50px;
+    width: 278px;
+    height: 119px;
+    align-items: stretch
+  }
+  .style0,
+  .style1 {
+    background-image: linear-gradient(135deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 119px
+  }
+  .style1 {
+    background-image: linear-gradient(225deg,red 0,#2000ff 100%);
+    margin-left: 40px
+  }
+  .iphone6781row1 {
+    display: flex;
+    margin-left: 49px;
+    margin-top: 40px;
+    width: 278px;
+    height: 119px;
+    align-items: stretch
+  }
+  .style2,
+  .style3 {
+    background-image: linear-gradient(45deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 119px
+  }
+  .style3 {
+    margin-left: 40px
+  }
+  .iphone6781row2 {
+    display: flex;
+    margin-left: 49px;
+    margin-top: 36px;
+    width: 279px;
+    height: 119px;
+    align-items: stretch
+  }
+  .style4,
+  .style6 {
+    background-image: linear-gradient(180deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 119px
+  }
+  .style6 {
+    margin-left: 41px
+  }
+  .iphone6781row3 {
+    display: flex;
+    margin-left: 49px;
+    margin-top: 36px;
+    width: 279px;
+    height: 119px;
+    align-items: stretch
+  }
+  .style5,
+  .style7 {
+    background-image: linear-gradient(90deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 119px
+  }
+  .style7 {
+    background-image: linear-gradient(-90deg,red 0,#2000ff 100%);
+    margin-left: 41px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .iphone6781row0 {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 102px;
+    width: 569px;
+    height: 244px;
+    align-items: stretch
+  }
+  .style0,
+  .style1 {
+    background-image: linear-gradient(135deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 244px
+  }
+  .style1 {
+    background-image: linear-gradient(225deg,red 0,#2000ff 100%);
+    margin-left: 82px
+  }
+  .iphone6781row1 {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 82px;
+    width: 569px;
+    height: 244px;
+    align-items: stretch
+  }
+  .style2,
+  .style3 {
+    background-image: linear-gradient(45deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 244px
+  }
+  .style3 {
+    margin-left: 82px
+  }
+  .iphone6781row2 {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 74px;
+    width: 571px;
+    height: 244px;
+    align-items: stretch
+  }
+  .style4,
+  .style6 {
+    background-image: linear-gradient(180deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 244px
+  }
+  .style6 {
+    margin-left: 84px
+  }
+  .iphone6781row3 {
+    display: flex;
+    margin-left: 100px;
+    margin-top: 74px;
+    width: 571px;
+    height: 244px;
+    align-items: stretch
+  }
+  .style5,
+  .style7 {
+    background-image: linear-gradient(90deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 244px
+  }
+  .style7 {
+    background-image: linear-gradient(-90deg,red 0,#2000ff 100%);
+    margin-left: 84px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .iphone6781row0 {
+    display: flex;
+    margin-left: 120px;
+    margin-top: 123px;
+    width: 682px;
+    height: 292px;
+    align-items: stretch
+  }
+  .style0,
+  .style1 {
+    background-image: linear-gradient(135deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 292px
+  }
+  .style1 {
+    background-image: linear-gradient(225deg,red 0,#2000ff 100%);
+    margin-left: 98px
+  }
+  .iphone6781row1 {
+    display: flex;
+    margin-left: 120px;
+    margin-top: 98px;
+    width: 682px;
+    height: 292px;
+    align-items: stretch
+  }
+  .style2,
+  .style3 {
+    background-image: linear-gradient(45deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 292px
+  }
+  .style3 {
+    margin-left: 98px
+  }
+  .iphone6781row2 {
+    display: flex;
+    margin-left: 120px;
+    margin-top: 88px;
+    width: 684px;
+    height: 292px;
+    align-items: stretch
+  }
+  .style4,
+  .style6 {
+    background-image: linear-gradient(180deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 292px
+  }
+  .style6 {
+    margin-left: 101px
+  }
+  .iphone6781row3 {
+    display: flex;
+    margin-left: 120px;
+    margin-top: 88px;
+    width: 684px;
+    height: 292px;
+    align-items: stretch
+  }
+  .style5,
+  .style7 {
+    background-image: linear-gradient(90deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 292px
+  }
+  .style7 {
+    background-image: linear-gradient(-90deg,red 0,#2000ff 100%);
+    margin-left: 101px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .iphone6781row0 {
+    display: flex;
+    margin-left: 157px;
+    margin-top: 160px;
+    width: 890px;
+    height: 381px;
+    align-items: stretch
+  }
+  .style0,
+  .style1 {
+    background-image: linear-gradient(135deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 381px
+  }
+  .style1 {
+    background-image: linear-gradient(225deg,red 0,#2000ff 100%);
+    margin-left: 128px
+  }
+  .iphone6781row1 {
+    display: flex;
+    margin-left: 157px;
+    margin-top: 128px;
+    width: 890px;
+    height: 381px;
+    align-items: stretch
+  }
+  .style2,
+  .style3 {
+    background-image: linear-gradient(45deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 381px
+  }
+  .style3 {
+    margin-left: 128px
+  }
+  .iphone6781row2 {
+    display: flex;
+    margin-left: 157px;
+    margin-top: 115px;
+    width: 893px;
+    height: 381px;
+    align-items: stretch
+  }
+  .style4,
+  .style6 {
+    background-image: linear-gradient(180deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 381px
+  }
+  .style6 {
+    margin-left: 131px
+  }
+  .iphone6781row3 {
+    display: flex;
+    margin-left: 157px;
+    margin-top: 115px;
+    width: 893px;
+    height: 381px;
+    align-items: stretch
+  }
+  .style5,
+  .style7 {
+    background-image: linear-gradient(90deg,red 0,#2000ff 100%);
+    margin-left: 0;
+    width: 381px
+  }
+  .style7 {
+    background-image: linear-gradient(-90deg,red 0,#2000ff 100%);
+    margin-left: 131px
+  }
+}
